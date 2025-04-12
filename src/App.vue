@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <h1>testing testing 123</h1>
+  <h1>testing testing 1 2 3 hello</h1>
   <HelloWorld msg="Hello guys"/>
 </template>
 
