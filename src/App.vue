@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Navbar from 'components/general/Navbar.vue'
+import NavBar2 from 'components/general/NavBar2.vue'
 import Landing from 'components/pages/Landing.vue'
 import Footer from 'components/general/Footer.vue' 
 
@@ -7,7 +8,7 @@ import Footer from 'components/general/Footer.vue'
 
 <template>
   
-  <Navbar />
+  <NavBar2 />
 
   <Landing msg="Vite + Vue" />
 
